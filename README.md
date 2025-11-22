@@ -2,4 +2,4 @@
 my first repository 
 <br>
 author
-abhishek nishad 
+abhishek nishad (computer science)
